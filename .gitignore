@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.exe
+*.cpp
+*.txt
+.vscode/
+# Nếu bạn muốn chặn cả mấy file cũ nằm ngoài folder bot
+TTS_vn_Snorlax.py
+TTS.py
+te.cpp
+te.exe
+lenh.txt
