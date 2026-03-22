@@ -1,0 +1,6 @@
+discord.py[voice]
+edge-tts
+langdetect
+python-dotenv
+PyNaCl
+flask

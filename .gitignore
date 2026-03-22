@@ -2,9 +2,13 @@
 __pycache__/
 *.exe
 *.cpp
-*.txt
 .vscode/
-# Nếu bạn muốn chặn cả mấy file cũ nằm ngoài folder bot
+
+# Chặn tất cả file .txt ngoại trừ requirements.txt
+*.txt
+!requirements.txt
+
+# Chặn các file code cũ
 TTS_vn_Snorlax.py
 TTS.py
 te.cpp
